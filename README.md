@@ -1,8 +1,7 @@
 - 👋 Hi, I’M @SAAIM28
-- 👀 I’m interested in ... Clothing and Coding ;)
-- 🌱 I’m currently pursuing Software Engineering at Concordia University Montreal
-- 💞️ I’m looking to collaborate on ... anything and everything!
-- 📫 How to reach me ... mdsaaim@gmail.com
+- 🌱 I’m currently a Software Engineering Junior at Concordia University 
+- 💞️ I’m looking to collaborate on ... anything!
+- 📫 How to reach me? m_intikh@live.concordia.ca
 
 <!---
 saaim28/saaim28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
