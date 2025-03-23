@@ -1,6 +1,5 @@
-- 👋 Hi, I’M @SAAIM28
-- 🌱 I’m currently a Software Engineering Junior at Concordia University 
-- 💞️ I’m looking to collaborate on ... anything!
+- 👋 Hi, I’m Mohammed Saaim. 
+- 🌱 I’m currently a Software Service Delivery Analyst @ ACI World and Senior Software Engineering Student @ Concordia University
 - 📫 How to reach me? m_intikh@live.concordia.ca
 
 <!---
